@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     'classes',
+    'api',
 
     'crispy_forms',
 ]
